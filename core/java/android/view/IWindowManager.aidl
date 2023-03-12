@@ -639,9 +639,4 @@ interface IWindowManager
      */
     void syncInputTransactions();
 
-    /**
-     * Long screenshot
-     * @hide
-     */
-    void takeAlternativeScreenshot();
 }

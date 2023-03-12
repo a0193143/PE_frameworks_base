@@ -1503,9 +1503,4 @@ public interface WindowManagerPolicy extends WindowManagerPolicyConstants {
      */
     boolean setAodShowing(boolean aodShowing);
 
-    /**
-     * Long screenshot
-     * @hide
-     */
-    void takeAlternativeScreenshot();
 }
